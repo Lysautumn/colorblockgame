@@ -1,4 +1,4 @@
-.block {
+/*.block {
   width: 200px;
   height: 200px;
   display: inline-block;
@@ -14,4 +14,10 @@
 }
 #green {
   background-color: #228B22;
+}*/
+
+.box {
+  width: 200px;
+  height: 200px;
+  float: left;
 }
