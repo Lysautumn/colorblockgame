@@ -1,0 +1,17 @@
+.block {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+#blue {
+  background-color: #00008B;
+}
+#yellow {
+  background-color: #FFD700;
+}
+#purple {
+  background-color: #4B0082;
+}
+#green {
+  background-color: #228B22;
+}
